@@ -1,0 +1,26 @@
+logs/*
+!.gitkeep
+node_modules/
+tmp
+.DS_Store
+.idea
+.sass-cache
+*.iml
+jshint-output.html
+bower_components/
+/*/ui/assets/css/
+extension-files.json
+/dist/
+/build/
+/node_modules/
+/transpile/*
+/.gitignore
+/npm-debug.log
+/Test Results - karma_conf_js.html
+/coverage/Chrome 56.0.2924 (Windows 7 0.0.0)
+/.vs
+/.npmrc
+/coverage.zip
+/dm/ui/app/components/file-transfer/docs
+/coverage/Chrome 58.0.3029 (Windows 7 0.0.0)
+/coverage/Chrome 59.0.3071 (Windows 7 0.0.0)
